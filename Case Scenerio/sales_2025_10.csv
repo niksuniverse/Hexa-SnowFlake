@@ -1,0 +1,11 @@
+sales_id,sale_date,product_id,product_name,store_id,region,quantity,price,total_amount
+S001,2025-10-01,P101,Wireless Mouse,ST01,South,5,450,2250
+S002,2025-10-01,P102,Keyboard,ST02,North,3,750,2250
+S003,2025-10-02,P103,Laptop Stand,ST03,West,2,1200,2400
+S004,2025-10-02,P104,USB Cable,ST01,South,10,150,1500
+S005,2025-10-03,P105,Monitor 24inch,ST02,North,1,10500,10500
+S006,2025-10-03,P106,Headphones,ST04,East,4,1800,7200
+S007,2025-10-04,P107,Webcam,ST01,South,3,2600,7800
+S008,2025-10-04,P108,Printer,ST03,West,2,8500,17000
+S009,2025-10-05,P109,Desk Chair,ST05,East,1,9500,9500
+S010,2025-10-05,P110,Router,ST02,North,2,3200,6400
